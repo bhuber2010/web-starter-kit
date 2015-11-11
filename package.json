@@ -41,6 +41,7 @@
     "extends": "google"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "h5bp": "^0.1.4"
   }
 }
